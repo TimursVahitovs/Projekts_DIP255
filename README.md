@@ -12,7 +12,7 @@ Katrs cilvēks, kurš vēlas iegādāties jaunu preci, vienmēr cenšas atrast v
 Tā sniedz dažādas iespējas darbību veikšanai pārlūkprogrammās, tostarp saskarni ar lapas elementiem, datu ievadīšanu, klikšķus, formu aizpildīšanu un citas darbības.
 
 ### Kā strādāt ar šo skriptu?
-Lai izmantotu šo skriptu, lietotājs ievada produkta nosaukumu, un skripts automātiski pārbauda cenas katrā veikalā, norādot, cenu katrā no tiem, un kurā produkts ir visizdevīgāk iegādāties. Programma pilnīgi automātiski pieņēm cookie failus, lietotājam pēc preces nosaukuma ievadīšanas nav nepieciešams ievadīt nekādus datus.
+Lai izmantotu šo skriptu, lietotājs ievada produkta nosaukumu, un skripts automātiski pārbauda cenas katrā veikalā, norādot cenu katrā no tiem un kurā produku var visizdevīgāk iegādāties. Programma pilnīgi automātiski pieņēm cookie failus, lietotājam pēc preces nosaukuma ievadīšanas nav nepieciešams ievadīt nekādus datus.
 
 > [!IMPORTANT]
 > Skripts strādās korekti tikai tajā gadījumā, ja lietotājs ievada konkrētu un detalizētu preces nosaukumu ar tās aprakstu, piemēram: _"Apple Iphone 15 pro 256GB"_
