@@ -15,7 +15,7 @@ Tā sniedz dažādas iespējas darbību veikšanai pārlūkprogrammās, tostarp 
 Lai izmantotu šo skriptu, lietotājs ievada produkta nosaukumu, un skripts automātiski pārbauda cenas katrā veikalā, norādot, cenu katrā no tiem, un kurā produkts ir visizdevīgāk iegādāties. Programma pilnīgi automātiski pieņēm cookie failus, lietotājam pēc preces nosaukuma ievadīšanas nav nepieciešams ievadīt nekādus datus.
 
 > [!IMPORTANT]
-> Skript strādās korekti tikai tajā gadījumā, ja lietotājs ievada konkrētu un detalizētu preces nosaukumu ar tās aprakstu, piemēram: _"Apple Iphone 15 pro 256GB"_
+> Skripts strādās korekti tikai tajā gadījumā, ja lietotājs ievada konkrētu un detalizētu preces nosaukumu ar tās aprakstu, piemēram: _"Apple Iphone 15 pro 256GB"_
 
 ### Šeit varat apskatīt video ar programmatūras darbību un rezultātu.
 [Apskatīt video!](https://youtu.be/GKgVwag9czY?si=wNfwGQpboKolFgy9)
